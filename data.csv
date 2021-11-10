@@ -1,0 +1,5 @@
+id,email,first_name,last_name,password
+1,manju@gmail.com,Manjunath,Pai,$2a$12$I6H6Zyce/.kmDFVzQrrzN.iVoU9IHevR3WiBc7HXE3DKHpOwpgnIC
+2,ajit@gmail.com,Ajit,Anand,$2a$12$6sNiM.8JZosmCYyMadXAGOQqNriStRnqbmDIk9pq2/SLU8B6uX97W
+3,roopa@gmail.com,Roopa,Shanbhag,$2a$12$JDpKjqDFzC2MkUoXlY79xucLNkdlhxKFTUdd8TCr44pxCE17m8Nby
+4,tom@gmail.com,Tom,Cruise,$2a$12$1l19eZZ6pllezDZHDLZrPekJi6CmNzIiwDpd3Xah7mgTrltmpfixu
