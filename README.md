@@ -10,5 +10,5 @@ Step 2: Import data.csv into mysql
 
  Testing the application:
   Username: email in the data.csv
-  Password: <firstname>123
+  Password: "firstname-field-value"123
  
