@@ -9,6 +9,6 @@ export MYSQL_DB_USERNAME=root
 Step 2: Import data.csv into mysql
 
  Testing the application:
-  Username: email in the data.csv
-  Password: "firstname-field-value"123
+  Username: ajit@gmail.com
+  Password: ajit123
  
